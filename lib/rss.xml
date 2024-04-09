@@ -1,20 +1,77 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[testVault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>testVault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 05 Apr 2024 21:37:43 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 05 Apr 2024 21:37:42 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Biceps Brachial]]></title><description><![CDATA[ 
- <br><img alt="foo 1.gif" src="foo-1.gif">]]></description><link>biceps-brachial.html</link><guid isPermaLink="false">Biceps Brachial.md</guid><pubDate>Thu, 04 Apr 2024 22:12:31 GMT</pubDate><enclosure url="foo-1.gif" length="0" type="image/gif"/><content:encoded>&lt;figure&gt;&lt;img src="foo-1.gif"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Loge Antérieure de la Jambe]]></title><description><![CDATA[ 
- <br>bob]]></description><link>loge-antérieure-de-la-jambe.html</link><guid isPermaLink="false">Loge Antérieure de la Jambe.md</guid><pubDate>Fri, 05 Apr 2024 17:36:41 GMT</pubDate></item><item><title><![CDATA[Muscle Tibial Antérieur]]></title><description><![CDATA[ 
- <br><br><br><br><br><br><br><br><br><br>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[testVault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>testVault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 09 Apr 2024 10:42:39 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 09 Apr 2024 10:42:38 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Muscle Tibial antérieur]]></title><description><![CDATA[ 
+ <br>Infobox
+
+<img alt="Tibial_Antérieur_Img4.png" src="tibial_antérieur_img4.png">
+
+<br><br>Grid
+<img class="mb-image-card-image" src="tibial_antérieur_img2.png" alt="Tibial_Antérieur_Img2.png"><br>
+<img class="mb-image-card-image" src="tibial_antérieur_img1.png" alt="Tibial_Antérieur_Img1.png">
+<img class="mb-image-card-image" src="tibial_antérieur_img3.png" alt="Tibial_Antérieur_Img3.png">
+<br><br><br>Insertions et trajet
+Origine
+
+<br>2/3 sup. de la face lat. du <a data-href="Tibia" href="Tibia" class="internal-link" target="_self" rel="noopener">Tibia</a>
+<br>Déborde sur la MIO adjacente
+
+
+<img alt="Tibial_Antérieur_Origine_Img.png" src="tibial_antérieur_origine_img.png">
+
+Trajet
+
+<br>Vers le bas 
+<br>Passe sous le rétinaculum des extenseurs
+
+
+
+
+Terminaison
+
+<br>Bord méd. du cunnéiforme médial 
+<br>Base méd. du 1er Méta
+
+
+<img alt="Tibial_Antérieur_Terminaison_Img.png" src="tibial_antérieur_terminaison_img.png">
+
+<br><br>Fonctions
+Fonction Dynamique
+
+<br>Flexion dorsale de la cheville
+<br>Inversion du pied
+
+
+Fonction  Statique
+null
+
+<br><br>
 <br><a data-href="Frank H.NETTER - Atlas d'anatomie humaine (2019, Elsevier Masson) - libgen.lc.pdf#page=594" href="frank-h.netter-atlas-d'anatomie-humaine-(2019,-elsevier-masson)-libgen.lc.pdf#page=594" class="internal-link" target="_self" rel="noopener">Frank H.NETTER - Atlas d'anatomie humaine (2019, Elsevier Masson) - libgen.lc.pdf &gt; page=594</a>
 <br>Dufour T1
-<br><br>Origine du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+<br><br>Column
+Origine du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 
-<br>Trajet du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+<br>2/3 sup. de la face lat. du <a data-href="Tibia" href="Tibia" class="internal-link" target="_self" rel="noopener">Tibia</a>
+<br>Déborde sur la MIO adjacente
+<br>
+<img alt="Tibial_Antérieur_Origine_Img.png" src="tibial_antérieur_origine_img.png"> 
 
-<br>Terminaisons du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+Trajet du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 
-<br>Fonction Dynamique du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+<br>Vers le bas 
+<br>Passe sous le rétinaculum des extenseurs
+<br>
 
-<br>Fonction Statique du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 
-]]></description><link>muscle-tibial-antérieur.html</link><guid isPermaLink="false">Muscle Tibial Antérieur.md</guid><pubDate>Fri, 05 Apr 2024 18:14:20 GMT</pubDate><enclosure url="tibial_antérieur_img1.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="tibial_antérieur_img1.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[MuscleTest]]></title><description><![CDATA[ 
+Terminaisons du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+
+
+Fonction Dynamique du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+
+
+Fonction Statique du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+
+
+]]></description><link>muscle-tibial-antérieur.html</link><guid isPermaLink="false">Muscle Tibial Antérieur.md</guid><pubDate>Tue, 09 Apr 2024 10:40:50 GMT</pubDate><enclosure url="tibial_antérieur_img4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="tibial_antérieur_img4.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Biceps Brachial]]></title><description><![CDATA[ 
+ <br><img alt="foo 1.gif" src="foo-1.gif">]]></description><link>biceps-brachial.html</link><guid isPermaLink="false">Biceps Brachial.md</guid><pubDate>Thu, 04 Apr 2024 22:12:31 GMT</pubDate><enclosure url="foo-1.gif" length="0" type="image/gif"/><content:encoded>&lt;figure&gt;&lt;img src="foo-1.gif"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Loge Antérieure de la Jambe]]></title><description><![CDATA[ 
+ <br>bob]]></description><link>loge-antérieure-de-la-jambe.html</link><guid isPermaLink="false">Loge Antérieure de la Jambe.md</guid><pubDate>Fri, 05 Apr 2024 17:36:41 GMT</pubDate></item><item><title><![CDATA[MuscleTest]]></title><description><![CDATA[ 
  <br>
 <br>Pour que les images/liens présents dans le YAML soient bien envoyés vers anki il est nécessaire qu'ils soient présents dans le corps du texte (même si c'est dans un commentaire)
 
