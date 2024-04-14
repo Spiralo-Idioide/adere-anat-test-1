@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[testVault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>testVault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 09 Apr 2024 23:07:42 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 09 Apr 2024 23:07:41 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Muscle Tibial Antérieur]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[testVault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>testVault</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 14 Apr 2024 09:51:49 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 14 Apr 2024 09:51:46 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Muscle Tibial Antérieur]]></title><description><![CDATA[ 
  <br>Infobox
 
 
@@ -41,34 +41,30 @@ Fonction  Statique
 <br><a data-href="Frank H.NETTER - Atlas d'anatomie humaine (2019, Elsevier Masson) - libgen.lc.pdf#page=594" href="frank-h.netter-atlas-d'anatomie-humaine-(2019,-elsevier-masson)-libgen.lc.pdf#page=594" class="internal-link" target="_self" rel="noopener">Frank H.NETTER - Atlas d'anatomie humaine (2019, Elsevier Masson) - libgen.lc.pdf &gt; page=594</a>
 <br>Dufour T1
 <br><br>Column
+Left
 Origine du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 Info
 
 <br>2/3 sup. de la face lat. du <a data-href="Tibia" href="Tibia" class="internal-link" target="_self" rel="noopener">Tibia</a>
 <br>Déborde sur la MIO adjacente
-<br>
-<img alt="Tibial_Antérieur_Origine_Img.png" src="tibial_antérieur_origine_img.png"> 
 
-
-Trajet du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 Info
-
-<br>Vers le bas 
-<br>Passe sous le rétinaculum des extenseurs
-<br>
+<img alt="Tibial_Antérieur_Origine_Img.png" src="tibial_antérieur_origine_img.png">
 
 
 
-Terminaisons du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+Terminaison du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 Info
 
 <br>Bord méd. du cunnéiforme médial 
 <br>Base méd. du 1er Méta
-<br>
-<img alt="Tibial_Antérieur_Terminaison_Img.png" src="tibial_antérieur_terminaison_img.png"> 
+
+Info
+<img alt="Tibial_Antérieur_Terminaison_Img.png" src="tibial_antérieur_terminaison_img.png">
 
 
-Fonction Dynamique du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+
+Fonction Dynamique  du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 Info
 
 <br>Flexion dorsale de la cheville
@@ -76,12 +72,31 @@ Info
 
 
 
-Fonction Statique du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+
+Right
+Trajet du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+Info
+
+<br>Vers le bas 
+<br>Passe sous le rétinaculum des extenseurs
+
 Info
 
 
 
-]]></description><link>muscle-tibial-antérieur.html</link><guid isPermaLink="false">Muscle Tibial Antérieur.md</guid><pubDate>Tue, 09 Apr 2024 23:07:16 GMT</pubDate><enclosure url="tibial_antérieur_img4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="tibial_antérieur_img4.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Muscle Tibial Antérieur 1]]></title><description><![CDATA[ 
+
+Innervation du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+Info
+<a data-href="Nerf Profond" href="Nerf Profond" class="internal-link" target="_self" rel="noopener">Nerf Profond</a> (L5-S2)
+
+
+Fonction Statique  du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+Info
+
+
+
+
+]]></description><link>muscle-tibial-antérieur.html</link><guid isPermaLink="false">Muscle Tibial Antérieur.md</guid><pubDate>Sun, 14 Apr 2024 09:51:18 GMT</pubDate><enclosure url="tibial_antérieur_img4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="tibial_antérieur_img4.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Muscle Tibial Antérieur 1]]></title><description><![CDATA[ 
  <br>Infobox
 
 
@@ -130,8 +145,7 @@ Origine du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Anté
 <br>Déborde sur la MIO adjacente
 <br>
 <img alt="Tibial_Antérieur_Origine_Img.png" src="tibial_antérieur_origine_img.png"> 
-
-Trajet du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
+[!Question]- Trajet du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 
 <br>Vers le bas 
 <br>Passe sous le rétinaculum des extenseurs
@@ -147,7 +161,24 @@ Fonction Dynamique du muscle <a data-tooltip-position="top" aria-label="Muscle T
 Fonction Statique du muscle <a data-tooltip-position="top" aria-label="Muscle Tibial Antérieur" data-href="Muscle Tibial Antérieur" href="muscle-tibial-antérieur.html" class="internal-link" target="_self" rel="noopener">Tibial Antérieur</a>
 
 
-]]></description><link>muscle-tibial-antérieur-1.html</link><guid isPermaLink="false">Muscle Tibial Antérieur 1.md</guid><pubDate>Tue, 09 Apr 2024 22:38:18 GMT</pubDate><enclosure url="tibial_antérieur_img4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="tibial_antérieur_img4.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Biceps Brachial]]></title><description><![CDATA[ 
+]]></description><link>muscle-tibial-antérieur-1.html</link><guid isPermaLink="false">Muscle Tibial Antérieur 1.md</guid><pubDate>Sun, 14 Apr 2024 08:49:55 GMT</pubDate><enclosure url="tibial_antérieur_img4.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="tibial_antérieur_img4.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[MuscleTest_bckp]]></title><description><![CDATA[ 
+ <br>
+<br>Pour que les images/liens présents dans le YAML soient bien envoyés vers anki il est nécessaire qu'ils soient présents dans le corps du texte (même si c'est dans un commentaire)
+
+<br>Ce regex permet d'ajouter une copie du YAML à la fin de la note dans un commentaire<br>
+(---\n(NomMuscle:.*[\w\W]*?)\n---)((?:.*\n)*)(%% AnkiCopy[\w\W]*)
+<br>À tester avec sed<br>
+Ne marche pas, la version -E de sed ne suffit pas
+<br>Tester  
+
+
+<br><a data-tooltip-position="top" aria-label="https://regex101.com/r/cpfbeW/4" rel="noopener" class="external-link" href="https://regex101.com/r/cpfbeW/4" target="_blank">Regex parsant le YAML du muscle</a>
+
+<br>Le (?=(?:.*:.*\n)*?---) exclue directement le commentaire HTML ajouté par Obsidian2Anki parce que celui-ci contient un :<br>
+L'effet secondaire est que le caractère : ne peut pas du tout être utilisé dans aucun des
+
+
+<br>auieaiue<br>]]></description><link>muscletest_bckp.html</link><guid isPermaLink="false">MuscleTest_bckp.md</guid><pubDate>Fri, 12 Apr 2024 09:53:54 GMT</pubDate></item><item><title><![CDATA[Biceps Brachial]]></title><description><![CDATA[ 
  <br><img alt="foo 1.gif" src="foo-1.gif">]]></description><link>biceps-brachial.html</link><guid isPermaLink="false">Biceps Brachial.md</guid><pubDate>Thu, 04 Apr 2024 22:12:31 GMT</pubDate><enclosure url="foo-1.gif" length="0" type="image/gif"/><content:encoded>&lt;figure&gt;&lt;img src="foo-1.gif"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Loge Antérieure de la Jambe]]></title><description><![CDATA[ 
  <br>bob]]></description><link>loge-antérieure-de-la-jambe.html</link><guid isPermaLink="false">Loge Antérieure de la Jambe.md</guid><pubDate>Fri, 05 Apr 2024 17:36:41 GMT</pubDate></item><item><title><![CDATA[MuscleTest]]></title><description><![CDATA[ 
  <br>
@@ -173,19 +204,4 @@ REMPLACE SANS&nbsp;FAIRE&nbsp;DE&nbsp;COPIE
 L'effet secondaire est que le caractère : ne peut pas du tout être utilisé dans aucun des
 
 
-<br>auieaiue<br><img alt="foo 1.gif" src="foo-1.gif"><br>]]></description><link>muscletest.html</link><guid isPermaLink="false">MuscleTest.md</guid><pubDate>Fri, 05 Apr 2024 11:34:14 GMT</pubDate><enclosure url="foo-1.gif" length="0" type="image/gif"/><content:encoded>&lt;figure&gt;&lt;img src="foo-1.gif"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[MuscleTest_bckp]]></title><description><![CDATA[ 
- <br>
-<br>Pour que les images/liens présents dans le YAML soient bien envoyés vers anki il est nécessaire qu'ils soient présents dans le corps du texte (même si c'est dans un commentaire)
-
-<br>Ce regex permet d'ajouter une copie du YAML à la fin de la note dans un commentaire<br>
-(---\n(NomMuscle:.*[\w\W]*?)\n---)((?:.*\n)*)(%% AnkiCopy[\w\W]*)
-<br>À tester avec sed 
-
-
-<br><a data-tooltip-position="top" aria-label="https://regex101.com/r/cpfbeW/4" rel="noopener" class="external-link" href="https://regex101.com/r/cpfbeW/4" target="_blank">Regex parsant le YAML du muscle</a>
-
-<br>Le (?=(?:.*:.*\n)*?---) exclue directement le commentaire HTML ajouté par Obsidian2Anki parce que celui-ci contient un :<br>
-L'effet secondaire est que le caractère : ne peut pas du tout être utilisé dans aucun des
-
-
-<br>auieaiue<br>]]></description><link>muscletest_bckp.html</link><guid isPermaLink="false">MuscleTest_bckp.md</guid><pubDate>Fri, 05 Apr 2024 08:38:31 GMT</pubDate></item></channel></rss>
+<br>auieaiue<br><img alt="foo 1.gif" src="foo-1.gif"><br>]]></description><link>muscletest.html</link><guid isPermaLink="false">MuscleTest.md</guid><pubDate>Fri, 05 Apr 2024 11:34:14 GMT</pubDate><enclosure url="foo-1.gif" length="0" type="image/gif"/><content:encoded>&lt;figure&gt;&lt;img src="foo-1.gif"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
